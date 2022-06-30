@@ -33,6 +33,7 @@
 ## Connect with me:
 <p align="left">
 <a href = "https://www.linkedin.com/in/abhishek-kumar-6775171a0/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "mailto:abhikr756@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href = "https://twitter.com/sri_abhii"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/sri_abhi_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
