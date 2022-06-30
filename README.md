@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Abhishek Srivastava</h1>
+<h1 align="center">Hey there, I'm Abhishek Srivastava</h1>
 <h3 align="center">I'm a CSE student who is passionate about writing code, solving problems, and also have keen interest in learning Data Structures and Algorithms.</h3>
 <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
