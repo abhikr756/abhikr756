@@ -1,4 +1,3 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h1 align="center">Hi there, I'm Abhishek Srivastava</h1>
 <h3 align="center">I'm a CSE student who is passionate about writing code, solving problems, and also have keen interest in learning Data Structures and Algorithms.</h3>
 
@@ -11,12 +10,9 @@
 </p>
 
 ## 📊 My Github Stats
-
   <br/>
     <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Abhishek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abhikr756&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhikr756&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 ## 🚀 Languages and Tools:
 
@@ -39,14 +35,10 @@
 
 ## Connect with me:
 <p align="left">
-
 <a href = "https://www.linkedin.com/in/abhishek-kumar-6775171a0/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/sri_abhii"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/sri_abhi_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
 </p>
 
 ## ❤ Views
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=abhikr756">
-</a>
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=abhikr756"></a>
