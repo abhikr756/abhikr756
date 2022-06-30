@@ -15,7 +15,7 @@
 
 - 👨‍💻 I’m looking for a **software development Roles.** 
 
-- 📫 Get in touch **@abhikr756@gmail.com**
+- 📫 Get in touch **abhikr756@gmail.com**
 
 - ⚡ Fun fact **I love editing images and videos.**
 
