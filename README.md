@@ -1,8 +1,5 @@
 <h1 align="center">Hi there, I'm Abhishek Srivastava</h1>
 <h3 align="center">I'm a CSE student who is passionate about writing code, solving problems, and also have keen interest in learning Data Structures and Algorithms.</h3>
-
-- 📫 Get in touch  [Linkedin](https://www.linkedin.com/in/abhishek-kumar-6775171a0/) [Gmail](mailto:abhikr756@gmail.com)
-
 <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abhikr756&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
@@ -32,8 +29,8 @@
 
 ## Connect with me:
 <p align="left">
-<a href = "https://www.linkedin.com/in/abhishek-kumar-6775171a0/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "mailto:abhikr756@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href = "https://www.linkedin.com/in/abhishek-kumar-6775171a0/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/sri_abhii"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/sri_abhi_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
