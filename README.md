@@ -1,10 +1,6 @@
-<a href="#"><img width="100%" height="auto" src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="175px"/></a>
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="40px">, I'm Abhishek Srivastava <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<h1 align="center">नमस्ते (Namaste)🙏🏻, I'm Abhishek Srivastava</h1>
 <h3 align="center">I'm a CSE student who is passionate about writing code, solving problems, and also have keen interest in learning Data Structures and Algorithms.</h3>
-<div align="center">
-    <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="300">
-</div>
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently a CSE student at AKTU.
@@ -15,9 +11,9 @@
 
 - 👨‍💻 I’m looking for a **software development Roles.** 
 
-- 📫 Get in touch **abhikr756@gmail.com**
+- 📫 Get in touch  [Linkedin](https://www.linkedin.com/in/abhishek-kumar-6775171a0/) [Gmail](mailto:abhikr756@gmail.com)
 
-- ⚡ Fun fact **I love editing images and videos.**
+- ⚡ Fun fact **I love Photography and editing.**
 
 ## 🚀 Languages and Tools:
 
@@ -56,8 +52,6 @@
 <br/>
 <br/>
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Abhishek's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abhikr756&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
 <br/>
 <br/>
 
@@ -70,8 +64,7 @@
 
 </p>
 
-## ❤ Views and Followers
+## ❤ Views
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SubZero-13">
+    <img src="https://komarev.com/ghpvc/?username=abhikr756">
 </a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/SubZero-13?label=Followers&style=social" alt="GitHub Badge"></a>
