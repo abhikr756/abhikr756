@@ -6,10 +6,10 @@
     </a>
 </p>
 
-## 📊 My Github Stats
+<!-- ## 📊 My Github Stats
   <br/>
     <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Abhishek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abhikr756&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
+  <br/> -->
 
 ## 🚀 Languages and Tools:
 <p align="left"> 
